@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Model: 0
   CompletionUrl: https://api.openai.com/v1/chat/completions
-  PrivateApiKey: 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
+  PrivateApiKey: /// Insert your ChatGPT API key here
   Organization: 
